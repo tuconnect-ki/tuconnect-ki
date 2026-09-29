@@ -1,16 +1,17 @@
-## Hi there 👋
+# TUCONNECT 🌐
 
-<!--
-**tuconnect-ki/tuconnect-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Safe. Secure. Accessible.**
 
-Here are some ideas to get you started:
+TUCONNECT is building a secure and inclusive digital ecosystem that connects
+people, services, opportunities, and communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our technology is designed around three principles:
+
+- 🔐 Security
+- ♿ Accessibility
+- 🌐 Connectivity
+
+We believe digital technology should be accessible to everyone, regardless of
+ability, device, connectivity limitations, or circumstances.
+
+**Connect. Access. Transact. Grow.**
